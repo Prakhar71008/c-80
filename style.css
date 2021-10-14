@@ -1,0 +1,8 @@
+#sort_button{
+    display: none;
+}
+body{
+    background:linear-gradient(red 0%, orange 100%);
+    color:aqua;
+    font-size:30px;
+}
